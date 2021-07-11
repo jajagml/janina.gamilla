@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/JupiterToys/.vs/JupiterToys
+/JupiterToys/bin/Debug/netcoreapp3.1
+/JupiterToys/obj
